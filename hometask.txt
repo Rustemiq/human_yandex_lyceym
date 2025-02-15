@@ -1,2 +1,14 @@
 Ветки master и demo отличаются версией README (в master добавлена информация
 про пуговицы).
+
+Всего репозиторий содержит 10 коммитов, со следующими комментариями:
+init
+heat added
+boots
+README added
+dots
+fix README
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+added hometask.txt
